@@ -1,0 +1,9 @@
+# go dep
+Gopkg.lock
+vendor/
+
+# binaries
+bin/
+
+# VSCode
+.vscode/

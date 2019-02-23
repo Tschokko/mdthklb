@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "port": 8080,
+  "address": "",
+  "servers": [
+    { "url": "www.aaaa.de", "weight": 4 },
+    { "url": "www.bbbb.de", "weight": 3 },
+    { "url": "www.cccc.de", "weight": 2 }
+  ]
+}
